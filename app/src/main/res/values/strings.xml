@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FlowersRecyclerView</string>
+
+    <string-array name="flower_array">
+        <item>Violeta</item>
+        <item>Rosa</item>
+        <item>Azucena</item>
+        <item>Clavel</item>
+        <item>Crisantemo</item>
+        <item>Gladiolo</item>
+        <item>Hortensia</item>
+        <item>Jacinto</item>
+        <item>Margarita</item>
+        <item>Lirio</item>
+        <item>Lavanda</item>
+        <item>Tulipán</item>
+        <item>Nardo</item>
+        <item>Geranio</item>
+        <item>Gardenia</item>
+        <item>Pensamiento</item>
+        <item>Azalea</item>
+    </string-array>
+
+</resources>
